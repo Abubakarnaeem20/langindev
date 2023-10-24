@@ -1,0 +1,58 @@
+.frame-group {
+  position: absolute;
+  top: 133px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.our-latest-updates {
+  position: relative;
+  line-height: 120%;
+}
+.whats-heppening-around {
+  position: relative;
+  font-size: 16px;
+  line-height: 28px;
+  font-family: Inter;
+  color: #131126;
+  text-align: left;
+  display: inline-block;
+  width: 280px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.our-latest-updates-for-you-her-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.section-blog,
+.section-header {
+  position: absolute;
+  top: 0;
+  left: 342px;
+  width: 584px;
+  height: 81px;
+  text-align: center;
+  font-size: 38px;
+  color: #201c44;
+  font-family: "Plus Jakarta Sans";
+}
+.section-blog {
+  top: 2736px;
+  left: 86px;
+  width: 1270px;
+  height: 609px;
+  text-align: left;
+  font-size: 16px;
+  color: #131126;
+  font-family: Inter;
+}

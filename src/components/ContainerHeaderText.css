@@ -1,0 +1,79 @@
+.let-your-business1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  color: #201c44;
+}
+.launch-a-business1 {
+  margin: 0;
+}
+.launch-a-business-container1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 28px;
+  display: inline-block;
+  width: 530px;
+  height: 83px;
+  flex-shrink: 0;
+}
+.rating-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px;
+  font-size: 24px;
+}
+.contact-now1 {
+  position: relative;
+}
+.button1 {
+  border-radius: 5px;
+  background-color: #fae0e1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+}
+.iconlylight-outlinearrow-r2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.button-2 {
+  border-radius: 5px;
+  border: 1px solid #fae0e1;
+  box-sizing: border-box;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 25px 12px;
+}
+.book-a-demo {
+  position: relative;
+  line-height: 28px;
+}
+.cta1,
+.header-text1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+  font-size: 14px;
+}
+.header-text1 {
+  position: absolute;
+  top: 49px;
+  left: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  text-align: left;
+  font-size: 38px;
+  color: #131126;
+  font-family: "Plus Jakarta Sans";
+}

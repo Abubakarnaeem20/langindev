@@ -1,0 +1,58 @@
+.frame-child {
+  position: relative;
+  border-radius: 5px;
+  width: 410px;
+  height: 269px;
+  object-fit: cover;
+}
+.growth,
+.ways-to-grow {
+  align-self: stretch;
+  position: relative;
+}
+.growth {
+  line-height: 28px;
+  display: inline-block;
+  height: 21px;
+  flex-shrink: 0;
+}
+.ways-to-grow {
+  font-size: 24px;
+  line-height: 32px;
+  font-family: "Plus Jakarta Sans";
+  color: #201c44;
+}
+.iconlylight-outlinearrow-r3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.button-21 {
+  border-radius: 5px;
+  border: 1px solid #fae0e1;
+  box-sizing: border-box;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 25px 12px;
+}
+.header-text2,
+.rectangle-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header-text2 {
+  width: 410px;
+  gap: 26px;
+}
+.rectangle-container {
+  gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #131126;
+  font-family: Inter;
+}

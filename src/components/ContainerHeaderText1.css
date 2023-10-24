@@ -1,0 +1,92 @@
+.let-your-business {
+  align-self: stretch;
+  position: relative;
+  font-size: 38px;
+  line-height: 120%;
+  color: #201c44;
+}
+.launch-a-business {
+  margin: 0;
+}
+.launch-a-business-container {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  width: 530px;
+  height: 134px;
+  flex-shrink: 0;
+}
+.iconlylight-outlineprofile1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.full-name {
+  position: relative;
+  line-height: 28px;
+}
+.iconlylight-outlineprofile-parent {
+  border-radius: 5px;
+  border: 1px solid #d0d0d0;
+  box-sizing: border-box;
+  width: 447px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 103px 16px 16px;
+  gap: 20px;
+}
+.contact-now {
+  position: relative;
+}
+.iconlylight-outlinearrow-r1 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+}
+.button {
+  border-radius: 5px;
+  background-color: #fae0e1;
+  width: 447px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 18px 24px;
+  box-sizing: border-box;
+  gap: 8px;
+}
+.cta,
+.frame-parent,
+.header-text {
+  display: flex;
+  justify-content: flex-start;
+}
+.cta {
+  width: 447px;
+  flex-direction: row;
+  align-items: center;
+  font-size: 14px;
+  font-family: "Plus Jakarta Sans";
+}
+.frame-parent,
+.header-text {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame-parent {
+  border-radius: 5px;
+  gap: 16px;
+  font-family: Inter;
+}
+.header-text {
+  position: absolute;
+  top: 2122px;
+  left: 81px;
+  gap: 40px;
+  text-align: left;
+  font-size: 16px;
+  color: #131126;
+  font-family: "Plus Jakarta Sans";
+}

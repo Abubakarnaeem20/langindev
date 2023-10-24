@@ -1,0 +1,87 @@
+.group-child11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 24.270000457763672px 41px 100px rgba(0, 0, 0, 0.06);
+  width: 251px;
+  height: 198px;
+}
+.div2 {
+  top: 157px;
+  left: 18px;
+  letter-spacing: 0.01em;
+  line-height: 30px;
+  font-weight: 500;
+}
+.div2,
+.div3,
+.m2 {
+  position: absolute;
+}
+.m2 {
+  top: 157px;
+  left: 212px;
+  letter-spacing: 0.01em;
+  line-height: 30px;
+  font-weight: 500;
+  text-align: right;
+}
+.div3 {
+  top: 113px;
+  left: 18px;
+  font-size: 21.88px;
+  line-height: 24.41px;
+  font-weight: 600;
+}
+.group-child12,
+.group-child13 {
+  position: absolute;
+  top: 156px;
+  left: 18px;
+  border-radius: 40px;
+  background-color: #fae0e1;
+  width: 215px;
+  height: 5px;
+}
+.group-child13 {
+  background-color: #3c3679;
+  width: 60px;
+}
+.c {
+  text-transform: capitalize;
+}
+.lients-file-scanning {
+  text-transform: lowercase;
+}
+.clients-file-scanning-container,
+.total-clients {
+  position: absolute;
+  left: 20px;
+  font-weight: 600;
+  display: inline-block;
+}
+.clients-file-scanning-container {
+  top: 22px;
+  font-size: 18px;
+  color: #201c44;
+  width: 228px;
+  height: 19px;
+}
+.total-clients {
+  top: 56px;
+  font-size: 15px;
+  width: 99px;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 3755px;
+  left: 1109px;
+  width: 251px;
+  height: 198px;
+  text-align: left;
+  font-size: 10px;
+  color: #131126;
+  font-family: "Plus Jakarta Sans";
+}

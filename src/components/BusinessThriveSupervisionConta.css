@@ -1,0 +1,95 @@
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5.75px;
+  background-color: #fff;
+  box-shadow: -24.2662296295166px 41.83832931518555px 100.41px
+    rgba(0, 0, 0, 0.1);
+  width: 267px;
+  height: 216px;
+}
+.group-child8,
+.line-div {
+  position: absolute;
+  box-sizing: border-box;
+}
+.line-div {
+  top: 67.42px;
+  left: 56.55px;
+  border-right: 0.8px solid #eee;
+  width: 0.84px;
+  height: 120.49px;
+}
+.group-child8 {
+  top: 186.58px;
+  left: 56.58px;
+  border-top: 0.8px solid #eee;
+  width: 174.84px;
+  height: 0.84px;
+}
+.b10,
+.b7,
+.b8,
+.b9 {
+  position: absolute;
+  top: 179.76px;
+  left: 20.99px;
+  line-height: 167.3%;
+}
+.b10,
+.b8,
+.b9 {
+  top: 145.45px;
+}
+.b10,
+.b9 {
+  top: 111.14px;
+}
+.b10 {
+  top: 76.84px;
+}
+.vector-icon {
+  position: absolute;
+  top: 94.12px;
+  left: 54.91px;
+  width: 183.98px;
+  height: 93.02px;
+}
+.group-child10,
+.group-child9 {
+  position: absolute;
+  top: 129.76px;
+  left: 63.67px;
+  width: 36.82px;
+  height: 36.82px;
+}
+.group-child10 {
+  top: 98.86px;
+  left: 182.45px;
+}
+.b11 {
+  text-transform: capitalize;
+}
+.usiness-thrive-supervision {
+  text-transform: lowercase;
+}
+.business-thrive-supervision-container {
+  position: absolute;
+  top: 21.84px;
+  left: 20.92px;
+  font-size: 16.09px;
+  line-height: 167.3%;
+  color: #323232;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 267px;
+  height: 216px;
+  text-align: left;
+  font-size: 9.2px;
+  color: #131126;
+  font-family: "Plus Jakarta Sans";
+}

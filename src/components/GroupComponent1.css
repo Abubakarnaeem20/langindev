@@ -1,0 +1,51 @@
+.rating7,
+.trusted-by-over {
+  position: absolute;
+  width: 232px;
+  height: 60px;
+}
+.trusted-by-over {
+  top: 0;
+  left: 0;
+  line-height: 28px;
+  display: inline-block;
+}
+.rating7 {
+  top: 51px;
+  left: 46px;
+}
+.section-client-logo-child {
+  border-radius: 5px;
+  border: 1px solid #d0d0d0;
+  box-sizing: border-box;
+}
+.section-client-logo,
+.section-client-logo-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 150px;
+}
+.intercom-parent {
+  position: absolute;
+  top: 47px;
+  left: 359px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 90px;
+}
+.section-client-logo-parent {
+  position: absolute;
+  top: 864px;
+  left: 80px;
+  width: 1280px;
+  height: 150px;
+  text-align: left;
+  font-size: 18px;
+  color: #131126;
+  font-family: "Plus Jakarta Sans";
+}

@@ -1,0 +1,113 @@
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #3c3679;
+  border: 1px solid #131126;
+  box-sizing: border-box;
+  width: 1064px;
+  height: 76px;
+}
+.b2,
+.what-is-the {
+  position: absolute;
+  top: 23px;
+  left: 47px;
+  line-height: 28px;
+  display: inline-block;
+  width: 425px;
+  height: 29px;
+}
+.b2 {
+  left: 1020px;
+  width: 16px;
+}
+.launch-a-business2 {
+  margin: 0;
+}
+.launch-a-business-container2 {
+  position: absolute;
+  top: 99px;
+  left: 44px;
+  line-height: 28px;
+  color: #131126;
+  display: inline-block;
+  width: 985px;
+  height: 221px;
+}
+.rectangle-parent1 {
+  position: relative;
+  width: 1064px;
+  height: 320px;
+  color: #fff;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  border: 1px solid #131126;
+  box-sizing: border-box;
+  width: 1064px;
+  height: 76px;
+}
+.rectangle-parent2 {
+  position: relative;
+  width: 1064px;
+  height: 76px;
+}
+.contact-now2 {
+  position: relative;
+}
+.button2 {
+  border-radius: 5px;
+  background-color: #fae0e1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+}
+.iconlylight-outlinearrow-r4 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.button-22 {
+  border-radius: 5px;
+  border: 1px solid #fae0e1;
+  box-sizing: border-box;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 25px 12px;
+}
+.book-a-demo1 {
+  position: relative;
+  line-height: 28px;
+}
+.cta2,
+.group-parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.cta2 {
+  border-radius: 5px;
+  flex-direction: row;
+  font-size: 14px;
+}
+.group-parent {
+  position: absolute;
+  top: 124px;
+  left: 0;
+  flex-direction: column;
+  text-align: left;
+  font-size: 16px;
+  color: #131126;
+  font-family: "Plus Jakarta Sans";
+}

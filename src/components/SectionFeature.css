@@ -1,0 +1,117 @@
+.let-your-business2 {
+  align-self: stretch;
+  position: relative;
+  font-size: 38px;
+  line-height: 120%;
+}
+.we-are-making {
+  margin: 0;
+}
+.launch-a-business-container3 {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  width: 530px;
+  height: 134px;
+  flex-shrink: 0;
+}
+.iconlylight-outlinetick-squa3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.button-34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #fae0e1;
+  width: 47.37px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 25px 12px;
+  box-sizing: border-box;
+}
+.rating4 {
+  position: relative;
+  width: 530px;
+  height: 50px;
+}
+.easiest-way-to {
+  position: absolute;
+  top: 13px;
+  left: 67.11px;
+  line-height: 28px;
+  display: inline-block;
+  width: 462.89px;
+  height: 25px;
+}
+.rating-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.contact-now3 {
+  position: relative;
+}
+.iconlylight-outlinearrow-r5 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+}
+.button3 {
+  background-color: #fae0e1;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 24px;
+  gap: 8px;
+}
+.button3,
+.cta3,
+.header-text3 {
+  display: flex;
+  justify-content: flex-start;
+}
+.cta3 {
+  border-radius: 5px;
+  background-color: #fae0e1;
+  flex-direction: row;
+  align-items: center;
+  font-size: 14px;
+  color: #131126;
+}
+.header-text3 {
+  position: absolute;
+  top: 0;
+  left: 677px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+}
+.group-child6 {
+  border-radius: 5px;
+  background-color: #f6f6f9;
+}
+.group-child6,
+.section-feature-child,
+.section-feature1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 475px;
+  height: 528px;
+}
+.section-feature1 {
+  top: 1147px;
+  left: 83px;
+  width: 1207px;
+  text-align: left;
+  font-size: 16px;
+  color: #201c44;
+  font-family: "Plus Jakarta Sans";
+}

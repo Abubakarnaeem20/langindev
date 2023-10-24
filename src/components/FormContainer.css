@@ -1,0 +1,110 @@
+.section-feature-list-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #3c3679;
+  width: 1282px;
+  height: 237px;
+}
+.iconlylight-outlinetick-squa2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.button-31 {
+  border-radius: 5px;
+  background-color: #fae0e1;
+  width: 47.37px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 25px 12px;
+  box-sizing: border-box;
+}
+.super-useful-and {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  width: 244px;
+  height: 51px;
+  flex-shrink: 0;
+}
+.button-32,
+.rating1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rating1 {
+  width: 311px;
+  gap: 20px;
+}
+.button-32 {
+  border-radius: 5px;
+  background-color: #f3deb3;
+  width: 47.37px;
+  height: 50px;
+  padding: 25px 12px;
+  box-sizing: border-box;
+}
+.super-useful-and1 {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  width: 251px;
+  height: 51px;
+  flex-shrink: 0;
+}
+.button-33,
+.rating2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rating2 {
+  gap: 20px;
+}
+.button-33 {
+  border-radius: 5px;
+  background-color: #cbcffa;
+  width: 47.37px;
+  height: 50px;
+  padding: 25px 12px;
+  box-sizing: border-box;
+}
+.super-useful-and2 {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  width: 231px;
+  height: 51px;
+  flex-shrink: 0;
+}
+.rating-group {
+  position: absolute;
+  top: 92px;
+  left: 110px;
+  border-radius: 5px;
+  background-color: #3c3679;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 60px;
+}
+.section-feature-list {
+  position: absolute;
+  top: 1776px;
+  left: 78px;
+  width: 1282px;
+  height: 237px;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: "Plus Jakarta Sans";
+}
